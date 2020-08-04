@@ -24,6 +24,26 @@
       "nombre": "Jugo de Fresa",
       "precio": "200",
       "id": 5
+    },
+    {
+      "nombre": "tequila",
+      "precio": 800,
+      "id": 6
+    },
+    {
+      "nombre": "tequila",
+      "precio": 900,
+      "id": 7
+    },
+    {
+      "nombre": "Frutilla",
+      "precio": 200,
+      "id": 8
+    },
+    {
+      "nombre": "manzana",
+      "precio": 3,
+      "id": 9
     }
   ]
 }
